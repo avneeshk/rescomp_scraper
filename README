@@ -1,0 +1,8 @@
+Description: This is a very basic Ruby scraper that displays your current weekly bandwidth usage from your Rescmop account. 
+
+Instructions: 
+
+1) Install 'mechanize' gem (gem install mechanize)
+2) Open the file and fill in your username and password information where appropriate.
+3) Run the following at the command line in the proper directory: ruby rescomp.rb
+
